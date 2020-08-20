@@ -1,0 +1,48 @@
+body{
+    margin:0;
+    padding: 0;
+ 
+}
+.navbar-custom{
+    background: linear-gradient(205.07deg, #10FF53 15.94%, rgba(255, 255, 255, 0) 320.88%), #2D9712;
+    color: #ffffff;
+}
+
+.top-Nav{
+    position: absolute;
+    height: 35px;
+    left: 0%;
+    right: 0%;
+    top: 0px;
+    background: linear-gradient(184.33deg, #10FF53 15.94%, rgba(255, 255, 255, 0) 320.88%), #2D9712;
+}
+
+.title{
+   /* SourSop */
+
+    position: absolute;
+    width: 272px;
+    height: 96px;
+    left: calc(50% - 272px/2);
+    top: calc(40% - 96px/2 - 38px);
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 96px;
+
+/* identical to box height */
+
+color: #11F90C;
+}
+.footer-color{
+    height: 40vh;
+    width: 100%;
+    background: linear-gradient(205.07deg, #10FF53 15.94%, rgba(255, 255, 255, 0) 320.88%), #2D9712;
+
+}
+
+.content{
+    height:80vh;
+}
