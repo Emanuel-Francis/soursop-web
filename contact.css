@@ -38,7 +38,7 @@ body{
 }
 
 .content{
-    height:80vh;
+    height:10vh;
     width: 100%;
     display: flex;
     justify-content: center;
@@ -52,8 +52,14 @@ body{
     line-height: 67px;
     
     /* identical to box height */
-    
     color: #11F90C;
-    fo
 
+}
+
+.form{
+    color: #ffffff;
+    font-family: Poppins;
+    font-weight: 600;
+    height: 80vh;
+    margin: 2em;
 }
