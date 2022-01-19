@@ -1,0 +1,3 @@
+sudo docker build -t soursopdb:0.1 .
+docker run --detach --name=soursopdb --publish 6603:3306 soursopdb:0.1
+mysql client url 172.17.0.3:3306
